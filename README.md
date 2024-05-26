@@ -1,5 +1,5 @@
 # DSA
 
-Data Structures and Algorithms Practice
+Data Structures and Algorithms Practice.
 
-Using Anki to study and write the solutions, with testcases, periodically.
+Studying using active recall testing and spaced repition.
