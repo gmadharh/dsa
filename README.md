@@ -9,6 +9,7 @@ Studying using active recall testing and spaced repition.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gmadharh/dsa/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gmadharh/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/gmadharh/dsa/tree/master/0347-top-k-frequent-elements) |
 # Hash Table
 |  |
@@ -39,3 +40,11 @@ Studying using active recall testing and spaced repition.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/gmadharh/dsa/tree/master/0347-top-k-frequent-elements) |
+# Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gmadharh/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+# Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gmadharh/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
