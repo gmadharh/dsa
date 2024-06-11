@@ -2,7 +2,7 @@
 
 Data Structures and Algorithms Practice.
 
-Studying using active recall testing and spaced repition.
+Studying using active recall testing and spaced repitition.
 
 
 # Array
