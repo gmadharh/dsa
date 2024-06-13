@@ -9,12 +9,14 @@ Studying using active recall testing and spaced repitition.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gmadharh/dsa/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/gmadharh/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gmadharh/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/gmadharh/dsa/tree/master/0347-top-k-frequent-elements) |
 # Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gmadharh/dsa/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/gmadharh/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/gmadharh/dsa/tree/master/0347-top-k-frequent-elements) |
 # Divide and Conquer
 |  |
@@ -48,3 +50,7 @@ Studying using active recall testing and spaced repitition.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gmadharh/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+# Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/gmadharh/dsa/tree/master/0128-longest-consecutive-sequence) |
