@@ -18,6 +18,7 @@ Studying using active recall testing and spaced repitition.
 | ------- |
 | [0001-two-sum](https://github.com/gmadharh/dsa/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/gmadharh/dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/gmadharh/dsa/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/gmadharh/dsa/tree/master/0347-top-k-frequent-elements) |
 # Divide and Conquer
 |  |
@@ -26,6 +27,7 @@ Studying using active recall testing and spaced repitition.
 # Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/gmadharh/dsa/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/gmadharh/dsa/tree/master/0347-top-k-frequent-elements) |
 # Heap (Priority Queue)
 |  |
@@ -59,3 +61,7 @@ Studying using active recall testing and spaced repitition.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/gmadharh/dsa/tree/master/0238-product-of-array-except-self) |
+# String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/gmadharh/dsa/tree/master/0242-valid-anagram) |
