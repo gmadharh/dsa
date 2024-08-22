@@ -85,8 +85,14 @@ Studying using active recall testing and spaced repitition.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/gmadharh/dsa/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/gmadharh/dsa/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/gmadharh/dsa/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/gmadharh/dsa/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/gmadharh/dsa/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
