@@ -75,3 +75,18 @@ Studying using active recall testing and spaced repitition.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/gmadharh/dsa/tree/master/0036-valid-sudoku) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/gmadharh/dsa/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/gmadharh/dsa/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/gmadharh/dsa/tree/master/0217-contains-duplicate) |
+<!---LeetCode Topics End-->
