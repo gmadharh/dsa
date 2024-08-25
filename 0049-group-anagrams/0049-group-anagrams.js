@@ -20,14 +20,11 @@ var groupAnagrams = function(strs) {
 
         let sortedStr = strs[i].split('').sort().join('')
 
-        if(myMap.has(sortedStr)){
-
-            myMap.get(sortedStr).push(strs[i])
-
-        }else{
+        if(!myMap.has(sortedStr)){
             myMap.set(sortedStr,[])
-            myMap.get(sortedStr).push(strs[i])
+            
         }
+        myMap.get(sortedStr).push(strs[i])
     } 
 
     let anagrams = []
