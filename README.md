@@ -108,6 +108,7 @@ Studying using active recall testing and spaced repitition.
 | [0049-group-anagrams](https://github.com/gmadharh/dsa/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/gmadharh/dsa/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/gmadharh/dsa/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/gmadharh/dsa/tree/master/0412-fizz-buzz) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -129,4 +130,12 @@ Studying using active recall testing and spaced repitition.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gmadharh/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/gmadharh/dsa/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/gmadharh/dsa/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
